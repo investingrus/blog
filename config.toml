@@ -1,0 +1,9 @@
+baseurl = "https://blog.investingrus.com/"
+title = "The Investing-R-Us Blog"
+languageCode = "en-us"
+pygmentsuseclasses = true
+googleAnalytics = "UA-XXXXXXXX-XX" # tracking through cloudflare
+disqusShortname = "investingrus"
+
+[Params]
+  Author = "Sergey Kolos"
